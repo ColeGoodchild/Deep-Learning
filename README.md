@@ -1,0 +1,1 @@
+This repository contains various deep learning projects, including but not limited to FNNs, RNNs, CNNs, LSTMs, etc. with various optimization and regularization methods (momentum, dropout, etc.). All details of the projects will be enumerated in the notebook files themselves.
